@@ -1,0 +1,15 @@
+{
+  "id": "pf2e-detection-tracker",
+  "title": "PF2e Detection Tracker",
+  "description": "A simple module help keeping track of detection status between creatures",
+  "authors": [
+    {
+    "name": "HomelessIronMan"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  }
+}
